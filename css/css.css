@@ -12,7 +12,7 @@
 
 
 .tasbeh{
-    width: 400px;
+    width: 350px;
     margin: 0 auto;
     max-height: 800px;
 }
@@ -37,6 +37,6 @@
     margin: 2px;
 }
 button{
-    padding: 15px 20px;
+    padding: 10px;
     margin: 5px;
 }
