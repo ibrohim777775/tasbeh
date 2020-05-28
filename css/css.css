@@ -1,41 +1,44 @@
-*{
+* {
     box-sizing: border-box;
 }
 
-
-
-.tasbeh{
+.tasbeh {
     width: 350px;
     margin: 0 auto;
     max-height: 800px;
 }
 
-
-.tasbeh_inners{
+.tasbeh_inners {
     display: flex;
     justify-content: space-between;
+    align-items: flex-start;
 }
 
-#yarimaylana, #yarimaylana2, #yarimaylana3{
+#yarimaylana, #yarimaylana2, #yarimaylana3 {
     display: flex;
     flex-direction: column;
     align-items: center;
-      
+    max-height: 800px;
+    flex-wrap: wrap;
 }
-.aylana, .aylana2, .aylana3{
+
+.aylana, .aylana2, .aylana3 {
     width: 15px;
     height: 15px;
     background-color: darkslategray;
     border-radius: 50%;
     margin: 2px;
 }
-.aylana2{
+
+.aylana2 {
     background-color: rgb(51, 182, 51) !important;
 }
-.aylana3{
+
+.aylana3 {
     background-color: rgb(85, 245, 11) !important;
 }
-button{
+
+button {
     padding: 10px;
     margin: 5px;
 }

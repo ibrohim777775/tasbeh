@@ -1,0 +1,17 @@
+@media (min-width:980px) {
+    .tasbeh {
+        width: 800px;
+    }
+    .aylana, .aylana2, .aylana3 {
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        margin: 5px;
+    }
+    button {
+        padding: 20px;
+        font-size: 25px;
+        font-weight: 500;
+        letter-spacing: 1.2px;
+    }
+}
