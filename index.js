@@ -116,7 +116,7 @@ function qoshish1() {
 }
 
 function qoshish2() {
-    document.getElementById('yarimaylana2').innerHTML += "<div class='aylana'></div>";
+    document.getElementById('yarimaylana2').innerHTML += "<div class='aylana2'></div>";
     numberOfCircle2++;
     console.log(numberOfCircle2)
     if (numberOfCircle2 > 32) {
@@ -125,7 +125,7 @@ function qoshish2() {
 }
 
 function qoshish3() {
-    document.getElementById('yarimaylana3').innerHTML += "<div class='aylana'></div>";
+    document.getElementById('yarimaylana3').innerHTML += "<div class='aylana3'></div>";
     numberOfCircle3++;
     console.log(numberOfCircle3)
     if (numberOfCircle3 > 32) {

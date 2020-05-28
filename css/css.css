@@ -29,12 +29,18 @@
     align-items: center;
       
 }
-.aylana{
-    width: 20px;
-    height: 20px;
+.aylana, .aylana2, .aylana3{
+    width: 15px;
+    height: 15px;
     background-color: darkslategray;
     border-radius: 50%;
     margin: 2px;
+}
+.aylana2{
+    background-color: rgb(51, 182, 51) !important;
+}
+.aylana3{
+    background-color: rgb(85, 245, 11);
 }
 button{
     padding: 10px;
